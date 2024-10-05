@@ -1,0 +1,3 @@
+/home/pardusumsu/code/csrt-tracker-cpp/cmake-build-debug/CMakeFiles/csrt_tracker_cpp.dir
+/home/pardusumsu/code/csrt-tracker-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pardusumsu/code/csrt-tracker-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

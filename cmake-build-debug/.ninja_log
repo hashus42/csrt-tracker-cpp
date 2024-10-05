@@ -1,0 +1,4 @@
+# ninja log v6
+0	995	1728115425082210477	CMakeFiles/csrt_tracker_cpp.dir/main.cpp.o	d33fddb2a526a08e
+1	1032	1728115425082210477	CMakeFiles/csrt_tracker_cpp.dir/tracker.cpp.o	de379753be6cd3ed
+1032	1242	1728115426113164080	csrt_tracker_cpp	d548c72988727099
